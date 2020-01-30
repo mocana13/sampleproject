@@ -7,6 +7,6 @@ First, install pipenv. Then:
 
 ```
 pipenv install
-pipenv run 'python meteor_distance'
+pipenv run 'python meteor/meteor_distance.py'
 
 ```
